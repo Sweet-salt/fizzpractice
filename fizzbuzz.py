@@ -1,3 +1,9 @@
+def do_fizzbuzz():
+    print('Do fizzbuzz!')
+    return True
 
-hello~~~~~ this is practice hahahahahahahah
+
+if __name__=='__main__':
+    do_fizzbuzz()
+
 
